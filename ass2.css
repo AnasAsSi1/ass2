@@ -1,0 +1,47 @@
+.photo img {
+width: 300px;
+height: 200px;
+margin-left: -80px ;
+}
+.photo h2 {
+    background-color: yellow;
+    width: fit-content;
+}
+.about h2 {
+    background-color: yellow;
+    width: fit-content;
+}
+.about p {
+color: white;
+color: red;  
+  width: fit-content;
+}
+.hobbies h2 {
+    background-color: yellow;
+    width: fit-content;
+}
+.fav h2 {
+    background-color: yellow;
+    width: fit-content;
+}
+.fav label {
+    color: red;
+}
+.fav .sub {
+    border: 3px solid #eee;
+    font-weight: bold;
+}
+.future h2{
+    background-color: yellow;
+    width: fit-content;
+}
+.future p {
+    color: red; 
+}
+.project h2 {
+    background-color: yellow;
+    width: fit-content;
+}
+.project a {
+    color: red; 
+}
